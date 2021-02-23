@@ -1,5 +1,18 @@
-<h1 align="center">Hey 👋, me chamo Bruna</h1>
+<h1 align="center">Hey, Devs! I'm Bruna Goncalves 👨‍🚀</h1>
 
-- 🌱 No momento estou estudando **JavaScript, ReactJS, React Native, NodeJS, Typescript, Next.JS**
+- 🔥 My web development stack is **nodejs**, **Reactjs** and **React Native**
 
-- 📫 Pode me contatar por aqui **brunagoncalves.sjb@gmail.com**
+- 📚 I'm currently studying **ReactJS, React Native, NodeJS, Typescript, Next.JS**
+
+- 😄 I can help you with **HTML**, **CSS**
+
+<br/>
+<p align="center"><strong>You can send me an E-mail on <a href="">brunagoncalves.sjb@gmail.com</a><br/>or find me on this platforms below 👇</strong></p>
+
+---
+
+<div align=center>
+  <a href="https://www.linkedin.com/in/brunnagoncalves/">LinkedIn</a> |
+  <a href="https://app.rocketseat.com.br/me/brunagoncalves">Rocketseat</a> |
+  <a href="https://twitter.com/BruhnaGoncalves">Twitter</a>
+</div>
