@@ -26,5 +26,5 @@
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=brunagoncalves&theme=nord&background=2E3440)](https://git.io/streak-stats)
     
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunagoncalves&layout=compact&theme=nord)](https://github.com/fdrian/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunagoncalves&layout=compact&theme=nord)](https://github.com/brunagoncalves/github-readme-stats)
 </div>
