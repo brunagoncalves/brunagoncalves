@@ -14,9 +14,10 @@
 
 ### 👨‍💻 About Me
 - 👋 Hello, I’m @brunagoncalves
-- 👀 I’m interested in bug bounties.
+- 👀 I’m interested in Bug Bounty.
 - 🌱 I'm currently studying haking at Pato Academy.
-<!-- - 📫 Found me [here](). -->
+- 📫 Found me [here](brunagoncalves.sjb@gmail.com).
+<!-- - 👨‍💻 brunagoncalves.dev -->
 
 
 ### 🚀 Stats
