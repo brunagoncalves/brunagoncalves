@@ -22,7 +22,7 @@
 ### 🚀 Stats
 <div id="stats" align="center">
   
-  <img src="https://komarev.com/ghpvc/?username=fdrian&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=brunagoncalves&style=flat-square&color=blue" alt=""/>
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fdrian&theme=nord&background=2E3440)](https://git.io/streak-stats)
     
