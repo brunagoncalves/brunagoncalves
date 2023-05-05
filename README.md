@@ -24,7 +24,7 @@
   
   <img src="https://komarev.com/ghpvc/?username=brunagoncalves&style=flat-square&color=blue" alt=""/>
   
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fdrian&theme=nord&background=2E3440)](https://git.io/streak-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=brunagoncalves&theme=nord&background=2E3440)](https://git.io/streak-stats)
     
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fdrian&layout=compact&theme=nord)](https://github.com/fdrian/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunagoncalves&layout=compact&theme=nord)](https://github.com/fdrian/github-readme-stats)
 </div>
