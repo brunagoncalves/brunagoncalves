@@ -1,18 +1,30 @@
-<h1 align="center">Hey, Devs! I'm Bruna Goncalves 👨‍🚀</h1>
+# Bruna Gonçalves
 
-- 🔥 My web development stack is **nodejs**, **Reactjs** and **React Native**
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/brunnagoncalves/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://hackerone.com/detetiveb?type=user">
+    <img src="https://img.shields.io/badge/HackerOne-black?style=for-the-badge&logo=hackerone&logoColor=white" alt="HackerOne Badge"/>
+  </a>
+  <a href="https://twitter.com/BruhnaGoncalves">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
-- 📚 I'm currently studying **ReactJS, React Native, NodeJS, Typescript, Next.JS**
+### 👨‍💻 About Me
+- 👋 Hello, I’m @brunagoncalves
+- 👀 I’m interested in bug bounties.
+- 🌱 I'm currently studying haking at Pato Academy.
+<!-- - 📫 Found me [here](). -->
 
-- 😄 I can help you with **HTML**, **CSS**
 
-<br/>
-<p align="center"><strong>You can send me an E-mail on <a href="">brunagoncalves.sjb@gmail.com</a><br/>or find me on this platforms below 👇</strong></p>
-
----
-
-<div align=center>
-  <a href="https://www.linkedin.com/in/brunnagoncalves/">LinkedIn</a> |
-  <a href="https://app.rocketseat.com.br/me/brunagoncalves">Rocketseat</a> |
-  <a href="https://twitter.com/BruhnaGoncalves">Twitter</a>
+### 🚀 Stats
+<div id="stats" align="center">
+  
+  <img src="https://komarev.com/ghpvc/?username=fdrian&style=flat-square&color=blue" alt=""/>
+  
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fdrian&theme=nord&background=2E3440)](https://git.io/streak-stats)
+    
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fdrian&layout=compact&theme=nord)](https://github.com/fdrian/github-readme-stats)
 </div>
