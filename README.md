@@ -13,11 +13,15 @@
 </div>
 
 ### 👨‍💻 About Me
-- 👋 Hello, I’m [Bruna Gonçalves](https://brunagoncalves.me/).
-- 💼 Currently working as an IT Manager.
-- 💻 Passionate about Web Development and a Cybersecurity Enthusiast.
-- I’m currently studying Bug Bounty at [Pato Academy](https://pato.academy/) and improving my frontend development skills with [Frontend Mentor](https://www.frontendmentor.io/).
-- 📚 Always eager to learn more and explore new technologies.
+👋 Hello, I’m [Bruna Gonçalves](https://brunagoncalves.me/).
+
+💼 Currently working as an IT Manager.
+
+💻 Passionate about Web Development and a Cybersecurity Enthusiast.
+
+I’m currently studying Bug Bounty at [Pato Academy](https://pato.academy/) and improving my frontend development skills with [Frontend Mentor](https://www.frontendmentor.io/).
+
+📚 Always eager to learn more and explore new technologies.
 
 
 ## 🚀 Stats
